@@ -178,7 +178,7 @@
                 ![image 3](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%203.png)
 
 
-[Re](#index)
+[INDEX](#index)
 - ## Proportional selection
     - Population create
         
@@ -373,8 +373,9 @@
                 # 선택된 개체 리스트 반환
                 return selected
             ```
+<br>
 
-[Re](#index)
+[INDEX](#index)
 - ## Stochastic universal sampling selection
     - Population create
         
@@ -556,8 +557,9 @@
     - Result
         
         ![image 6](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%206.png)
+<br>
 
-[Re](#index)
+[INDEX](#index)
 - ## Rank selection
     - Visualization
         
@@ -720,7 +722,9 @@
                             
                 return selected
             ```
-[Re](#index)            
+<br>
+
+[INDEX](#index)            
 - ## Elite selection
     - Rank selection base
         - Population create
@@ -818,5 +822,6 @@
                 ```
                 
     - 원서에는 랭크 선택 기반의 엘리트 선택만 있는데 순수 엘리트 선택만 사용 할 수도 있고 다른 선택 기반으로도 가능
+<br>
 
-[Re](#index)
+[INDEX](#index)
