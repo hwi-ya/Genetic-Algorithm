@@ -11,7 +11,7 @@
   2. [Proportional Selection](#proportional-selection)
   3. [Stochastic Universal Sampling Selection](#stochastic-universal-sampling-selection)
   4. [Rank Selection](#rank-selection)
-  5. [Elite Selection]
+  5. [Elite Selection](#elite-selection)
 
   - ### Tournament Selection
     설명 내용...
