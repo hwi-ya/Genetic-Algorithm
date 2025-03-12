@@ -20,6 +20,7 @@
   
   <details>
     <summary>&nbsp;&nbsp;&nbsp;&nbsp;Such a choice is made by the principle of natural selection, according to which the most adapted individuals have the highest chances of participating in the creation of new individuals.</summary>
+    <hr>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such a choice is made by the principle of natural selection, <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;이러한 선택은 다음과 같은 자연 선택 원칙에 의해 만들어졌다 <br>
     <br>    
@@ -42,6 +43,7 @@
   
   <details>
     <summary>&nbsp;&nbsp;&nbsp;&nbsp;As a result, an intermediate population (or parent pool) appears. An intermediate population is a set of individuals that have acquired the right to breed</summary>
+    <hr>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a result, <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;그 결과 <br>
      <br>
@@ -60,15 +62,15 @@
   <details>
     <summary>&nbsp;&nbsp;&nbsp;&nbsp;Adapted individuals can be recorded there several times. The abandoned individuals will most likely not get there at all.</summary>
     <hr>
-    Adapted individuals can be recorded there several times. <br>      
-    적응력이 높은 개체는 여러번 기록될 수 있다.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adapted individuals can be recorded there several times. <br>      
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;적응력이 높은 개체는 여러번 기록될 수 있다.
      <br>
-    The abandoned individuals will most likely not get there at all. <br>        
-    버려진 개체들은 그곳에 아예 포함되지 못 할 수도 있다 <br>       
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The abandoned individuals will most likely not get there at all. <br>        
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;버려진 개체들은 그곳에 아예 포함되지 못 할 수도 있다 <br>       
     <hr>
-    적응력이 높은 개체들은 여러번 기록될 수 있고 버려진 개체들은 그곳에 아예 포함되지 못 할 수도 있다.        
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;적응력이 높은 개체들은 여러번 기록될 수 있고 버려진 개체들은 그곳에 아예 포함되지 못 할 수도 있다.        
     <hr>        
-    포함되지 못 할 수도 있다보다 포함되지 않을 수 있다 로 의역        
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;포함되지 못 할 수도 있다보다 포함되지 않을 수 있다 로 의역        
     <hr>
   </details>
   
