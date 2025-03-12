@@ -5,7 +5,7 @@
 3. [Conclusion](#3-conclusion)
 
 ## 1. Selection
-
+  - 
 ## 2. Selection methods
   1. [Tournament Selection](#tournament-selection)
   2. [Proportional Selection](#proportional-selection)
