@@ -1,5 +1,5 @@
 # Ch. 3
-1. [Selection](#Selection)
+1. [Selection](#1. Selection)
 
 
 
@@ -9,4 +9,4 @@
 
 
 
-### Selection
+### 1. Selection
