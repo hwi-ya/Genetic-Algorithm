@@ -371,7 +371,7 @@
                 return selected
             ```
             
-- Stochastic universal sampling selection
+- ## Stochastic universal sampling selection
     - Population create
         
         ```
@@ -553,7 +553,7 @@
         
         ![image 6](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%206.png)
         
-- Rank selection
+- ## Rank selection
     - Visualization
         
         ```python
@@ -716,7 +716,7 @@
                 return selected
             ```
             
-- Elite selection
+- ## Elite selection
     - Rank selection base
         - Population create
             
