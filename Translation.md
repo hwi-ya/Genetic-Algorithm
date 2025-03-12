@@ -120,7 +120,7 @@
     - selection methods <br>
       선택 방법 <br>
       
-        Tournament selection <br>    
+        Tournament selection <br>
         토너먼트 선택 <br>
         
         Proportional selection <br>
@@ -132,7 +132,7 @@
         Rank selection <br>
         순위 선택 <br>
         
-        Elite selection <br>        
+        Elite selection <br>
         엘리트 선택 <br>
     
         <br>
