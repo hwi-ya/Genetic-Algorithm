@@ -5,7 +5,7 @@
 4. [Rank selection](#rank-selection)
 5. [Elite selection](#elite-selection)
 
-- [Tournament selection](#tournament-selection)
+- ## Tournament selection
     - Population create
         
         ```python
@@ -176,7 +176,7 @@
                 
                 ![image 3](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%203.png)
                 
-- [Proportional selection](#proportional-selection)
+- ## Proportional selection
     - Population create
         
         ```python
