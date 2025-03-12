@@ -1,12 +1,12 @@
 # Ch. 3 Presentation
 ## 0. Index
 1. [Selection](#1-selection)
-2. [Structure](#2-structure)
+2. [Structure](#2-selection-methods)
 3. [Conclusion](#3-conclusion)
 
 ## 1. Selection
 
-## 2. Structure
+## 2. Selection methods
   1. [Tournament Selection](#tournament-selection)
   2. [Proportional Selection](#proportional-selection)
   3. [Stochastic Universal Sampling Selection](#stochastic-universal-sampling-selection)
