@@ -4,7 +4,7 @@
 2. [Page.2](#p2-selection)
 3. [Page.3](#p3-selection-methods)
 4. [Page.4](#p4-tournament-selection)
-5. [Page.5]
+5. Page.5
 6. [Page.6](#p6-tournament-selection)
 7. [Page.7](#p7-proportional-selection)
 8. Page.8
