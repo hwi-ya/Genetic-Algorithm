@@ -13,26 +13,20 @@
   4. [Rank Selection](#rank-selection)
   5. [Elite Selection]
 
-### Tournament Selection
+  - ### Tournament Selection
 설명 내용...
 
-### Proportional Selection
+  - ### Proportional Selection
 설명 내용...
 
-### Stochastic Universal Sampling Selection
+  - ### Stochastic Universal Sampling Selection
 설명 내용...
 
-### Rank Selection
+  - ### Rank Selection
 설명 내용...
 
-### Elite Selection
+  - ### Elite Selection
 설명 내용...
-
-- #### Tournament Selection
-    - #### Proportional Selection
-    - #### Stochastic Universal Sampling Selection
-    - #### Rank Selection
-    - #### Elite Selection
 
 
 ## 3. Conclusion
