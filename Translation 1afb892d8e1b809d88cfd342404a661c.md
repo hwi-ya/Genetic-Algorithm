@@ -2,49 +2,112 @@
 <details>
   <summary>p.1 (selection)</summary>
   
-  <details>
-    <summary>Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.</summary>
-    
-    <!-- HTML 구분선 사용 -->
-    <hr>
-    
-    Selection is the choice of those individuals  
-    selection은 개체들의 선택이다
-    
-    that will participate in creating offspring  
-    다음 인구를 위해 자식을 만드는데 참여할
-    
-    that is, for the next generation  
-    즉, 다음 세대를 위한 과정이다
-    
-    <!-- HTML 구분선 사용 -->
-    <hr>
-    
-    selection은 다음 세대를 위해 자식을 만드는데 참여할 개체들을 선택하는 것 이다. 즉, 다음 세대를 위한 과정이다
-    
-    <!-- HTML 구분선 사용 -->
-    <hr>
-    
-    offspring - 자식
-  </details>
+    <details>
+      <summary>Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.</summary>
+      ---
+        
+      Selection is the choice of those individuals
+      selection은 개체들의 선택이다
+        
+      that will participate in creating offspring
+      다음 인구를 위해 자식을 만드는데 참여할
+        
+      that is, for the next generation
+      즉, 다음 세대를 위한 과정이다
+        
+      ---
+        
+      selection은 다음 세대를 위해 자식을 만드는데 참여할 개체들을 선택하는 것 이다. 즉, 다음 세대를 위한 과정이다
+        
+      ---
+        
+      offspring - 자식
+    </details>
   
-  <details>
-    <summary>두 번째 내용 토글</summary>
-    두 번째 내용이 여기에 들어갑니다.
-  </details>
+    <details>
+      <summary>Such a choice is made by the principle of natural selection, according to which the most adapted individuals have the highest chances of participating in the creation of new individuals.</summary>
+      ---
+        
+      Such a choice is made by the principle of natural selection,
+        
+      이러한 선택은 다음과 같은 자연 선택 원칙에 의해 만들어졌다
+        
+      according to which the most adapted individuals
+        
+      그에 따르면 가장 적응된 개체들이
+        
+      have the highest chances 
+        
+      가장 높은 기회?가능성? 확률? 을 갖는다
+        
+      of participating 
+        
+      참여할
+        
+      in the creation of new individuals.
+        
+      새로운 개체를 만드는 것에
+        
+      ---
+        
+      이러한 선택은 자연 선택 원칙에 의해 이루어지며 가장 적응된 개체들이 새로운 개체를 만드는 것에 참여할 가장 높은 기회를 갖는다
+        
+      ---
+        
+      적응된 개체가 어색하니 적응력이 높은 정도로 의역하기
+    </details>
   
-  <details>
-    <summary>세 번째 내용 토글</summary>
-    세 번째 내용이 여기에 들어갑니다.
-  </details>
+    <details>
+      <summary>As a result, an intermediate population (or parent pool) appears. An intermediate population is a set of individuals that have acquired the right to breed</summary>
+        ---
+        
+        As a result,
+        
+        그 결과
+        
+        an intermediate population (or parent pool) appears
+        
+        중간 집단(혹은 부모 풀(웅덩이))이 발생한다
+        
+        An intermediate population is a set
+        
+        이 중간집단은 집합이다
+        
+        of individuals that have acquired the right to breed
+        
+        번식할?사육할 권한을 획득한 개인의
+        
+        ---
+        
+        그 결과, 중간집단(혹은 부모 풀)이 발생한다. 이 중간집단은 번식할 권한을 획득한 개체들의 집합이다
+        
+        ---
+    </details>
   
-  <details>
-    <summary>네 번째 내용 토글</summary>
-    네 번째 내용이 여기에 들어갑니다.
-  </details>
-
+    <details>
+      <summary>Adapted individuals can be recorded there several times. The abandoned individuals will most likely not get there at all.</summary>
+        ---
+        
+        Adapted individuals can be recorded there several times.
+        
+        적응력이 높은 개체는 여러번 기록될 수 있다.
+        
+        The abandoned individuals will most likely not get there at all.
+        
+        버려진 개체들은 그곳에 아예 포함되지 못 할 수도 있다
+        
+        ---
+        
+        적응력이 높은 개체들은 여러번 기록될 수 있고 버려진 개체들은 그곳에 아예 포함되지 못 할 수도 있다.
+        
+        ---
+        
+        포함되지 못 할 수도 있다보다 포함되지 않을 수 있다 로 의역
+        
+        ---
+    </details>
+  
 </details>
-
 
 
 - p.1 (selection)
