@@ -131,7 +131,7 @@
 
         <br>
         
-- p.3 (selection methods)
+- ## p.3 (selection methods)
     - selection methods <br>
       선택 방법 <br>
       
