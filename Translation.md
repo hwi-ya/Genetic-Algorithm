@@ -4,16 +4,18 @@
   
   <details>
     <summary>election is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.</summary>
-    --- <br>
+    <br>
     Selection is the choice of those individuals <br>
     selection은 개체들의 선택이다 <br>
+    <br>
     that will participate in creating offspring <br>
     다음 인구를 위해 자식을 만드는데 참여할 <br>
+    <br>
     that is, for the next generation <br>
     즉, 다음 세대를 위한 과정이다 <br>
-    --- <br>
+    <br>
     selection은 다음 세대를 위해 자식을 만드는데 참여할 개체들을 선택하는 것 이다. 즉, 다음 세대를 위한 과정이다 <br>
-    --- <br>
+    <br>
     offspring - 자식
   </details>
   
