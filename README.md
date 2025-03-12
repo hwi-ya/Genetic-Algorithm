@@ -13,14 +13,14 @@
   4. [Rank Selection](#rank-selection)
   5. [Elite Selection](#elite-selection)
 
-   #### Tournament Selection
+  #### Tournament Selection
 
-   #### Proportional Selection
+  #### Proportional Selection
 
-   #### Stochastic Universal Sampling Selection
+  #### Stochastic Universal Sampling Selection
 
-   #### Rank Selection
+  #### Rank Selection
 
-   #### Elite Selection
+  #### Elite Selection
 
 ## 3. Conclusion
