@@ -13,6 +13,7 @@
   4. [Rank Selection](#rank-selection)
   5. [Elite Selection](#elite-selection)
 
+  
     #### Tournament Selection
 
     #### Proportional Selection
