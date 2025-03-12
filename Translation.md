@@ -2,7 +2,7 @@
 <details>
   <summary>p.1 (selection)</summary>
   <details>
-    <summary>&nbsp;&nbsp;&nbsp;&nbsp; election is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.</summary>
+    <summary><div style="margin-left: 20px;"> election is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.</summary>
     <hr>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selection is the choice of those individuals <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selection은 개체들의 선택이다 <br>
