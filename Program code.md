@@ -742,7 +742,7 @@
             
             - Result
                 
-                ![image.png](image%209.png)
+                ![image 9 .png](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%209.png)
                 
         - ch3
             - individual
