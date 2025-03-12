@@ -20,10 +20,10 @@
   4. [Rank Selection](#rank-selection)
   5. [Elite Selection](#elite-selection)
 
-### Tournament Selection
-### Proportional Selection
-### Stochastic universal sampling Selection Selection
-### Rank Selection
-### Elite Selection
+#### Tournament Selection
+#### Proportional Selection
+#### Stochastic universal sampling Selection Selection
+#### Rank Selection
+#### Elite Selection
 
 ## 3. Conclusion
