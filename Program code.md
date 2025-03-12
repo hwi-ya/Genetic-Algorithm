@@ -124,7 +124,7 @@
             
         - Result
             
-            ![tournamentpopcreate]([Ch.3/image.png](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image.png))
+            ![tournamentpopcreate](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image.png)
             
     - Visualization
         
