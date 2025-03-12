@@ -100,43 +100,42 @@
         
         ---
         
-        NOTE: It is important to understand
+        NOTE: It is important to understand <br>        
+        참고 : 이해하는 것이 중요하다 <br>
         
-        참고 : 이해하는 것이 중요하다
+         that the same individual can be selected several times by the selection method, <br>        
+        같은 객체가 여러번 선택될 수 있다 선택방법에 의해 <br>
         
-         that the same individual can be selected several times by the selection method,
-        
-        같은 객체가 여러번 선택될 수 있다 선택방법에 의해
-        
-        which means it can repeatedly participate in the process of creating new individuals.
-        
-        즉, 반복적으로 참여할 수 있다 새로운 개체를 만드는 과정에
+        which means it can repeatedly participate in the process of creating new individuals. <br>        
+        즉, 반복적으로 참여할 수 있다 새로운 개체를 만드는 과정에 <br>
         
         ---
         
-        참고 : 같은 객체가 선택 방법에 의해 여러번 선택될 수 있다는 것을 이해하는 것이 중요하다.
-        
-        즉, 새로운 개체를 만드는 과정에 반복적으로 참여할 수 있다. 
+        참고 : 같은 객체가 선택 방법에 의해 여러번 선택될 수 있다는 것을 이해하는 것이 중요하다. <br>        
+        즉, 새로운 개체를 만드는 과정에 반복적으로 참여할 수 있다.
+
+        <br>
         
 - p.3 (selection methods)
+    - selection methods <br>
+      선택 방법 <br>
+      
+        Tournament selection <br>    
+        토너먼트 선택 <br>
+        
+        Proportional selection <br>
+        비례 선택 <br>
+        
+        Stochastic universal sampling selection <br>
+        확률적 보편 샘플링 선택 <br>
+        
+        Rank selection <br>
+        순위 선택 <br>
+        
+        Elite selection <br>        
+        엘리트 선택 <br>
     
-    Tournament selection
-    
-    토너먼트 선택
-    Proportional selection
-    
-    비례 선택
-    Stochastic universal sampling selection
-    확률적 보편 샘플링 선택
-    
-    Rank selection
-    순위 선택
-    
-    Elite selection
-    
-    엘리트 선택
-    
-    ---
+        <br>
     
 - p.4 (Tournament selection)
     - Tournament selection is one of the simplest selection methods, and we will start with it.
