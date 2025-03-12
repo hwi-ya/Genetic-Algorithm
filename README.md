@@ -3,7 +3,13 @@
 1. [Selection](#1.-selection)
 2. [Structure](#2.-structure)
 3. [Conclusion](#3.-conclusion) <br>
-hi
+1<br>
+2<br>
+3<br>
+4<br>
+5<br>
+6<br>
+7<br>
 
 ## 1. Selection
 
@@ -12,17 +18,67 @@ hi
   2. [Proportional Selection](#proportional-selection)
   3. [Stochastic universal sampling Selection](#stochastic-universal-sampling-selection)
   4. [Rank Selection](#rank-selection)
-  5. [Elite Selection](#elite-selection)
+  5. [Elite Selection](#elite-selection) <br>
+1<br>
+2<br>
+3<br>
+4<br>
+5<br>
+6<br>
+7<br>
 
-#### Tournament Selection
+#### Tournament Selection <br>
+1<br>
+2<br>
+3<br>
+4<br>
+5<br>
+6<br>
+7<br>
 
-#### Proportional Selection
+#### Proportional Selection <br>
+1<br>
+2<br>
+3<br>
+4<br>
+5<br>
+6<br>
+7<br>
 
-#### Stochastic universal sampling Selection Selection
+#### Stochastic universal sampling Selection Selection <br>
+1<br>
+2<br>
+3<br>
+4<br>
+5<br>
+6<br>
+7<br>
 
-#### Rank Selection
+#### Rank Selection <br>
+1<br>
+2<br>
+3<br>
+4<br>
+5<br>
+6<br>
+7<br>
 
-#### Elite Selection
+#### Elite Selection <br>
+1<br>
+2<br>
+3<br>
+4<br>
+5<br>
+6<br>
+7<br>
 
 
 ## 3. Conclusion
+<br>
+1<br>
+2<br>
+3<br>
+4<br>
+5<br>
+6<br>
+7<br>
