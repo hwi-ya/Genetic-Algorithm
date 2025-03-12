@@ -28,5 +28,11 @@
 ### Elite Selection
 설명 내용...
 
+- #### Tournament Selection
+    - #### Proportional Selection
+    - #### Stochastic Universal Sampling Selection
+    - #### Rank Selection
+    - #### Elite Selection
+
 
 ## 3. Conclusion
