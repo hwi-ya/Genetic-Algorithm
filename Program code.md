@@ -5,7 +5,7 @@
 4. [Rank selection](#rank-selection)
 5. [Elite selection](#elite-selection)
 
-- Tournament selection
+- [Tournament selection](#tournament-selection)
     - Population create
         
         ```python
