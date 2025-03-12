@@ -9,7 +9,7 @@
 
 
 
-### 1. Selection
+# 1. Selection
 
 ### 2. Structure
   1. [Tournament Selection](#Tournament selection)
