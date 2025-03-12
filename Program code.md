@@ -1,5 +1,5 @@
 # Program code
-## I N D E X
+## INDEX
 1. [Tournament selection](#tournament-selection)
 2. [Proportional selection](#proportional-selection)
 3. [Stochastic universal sampling selection](#stochastic-universal-sampling-selection)
@@ -177,8 +177,8 @@
                 
                 ![image 3](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%203.png)
 
-[Re](#i)
-[Re](#n)
+[Re](#index)
+[Re](#index)
 [Re](#d)
 [Re](#e)
 [Re](#x)
