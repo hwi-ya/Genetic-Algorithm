@@ -36,5 +36,3 @@
 </details>
 
 ## 3. Conclusion
-
-[Installation](Translation.html)
