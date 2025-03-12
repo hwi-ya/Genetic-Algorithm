@@ -1,6 +1,16 @@
 # Translation
+## INDEX
+[p.1](p.1-(selection)) [p.2](p.2-(selection))
+[p.3](p.3-(selection-methods))
+[p.4]
+[p.5]
+[p.6]
+[p.7]
+[p.8]
+[p.9]
+[p.10]
 
-- p.1 (selection)
+- ## p.1 (selection)
     - Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.
         
         ---
@@ -95,7 +105,7 @@
         
         <br>
         
-- p.2 (selection)
+- ## p.2 (selection)
     - NOTE: It is important to understand that the same individual can be selected several times by the selection method, which means it can repeatedly participate in the process of creating new individuals.
         
         ---
@@ -137,7 +147,7 @@
     
         <br>
     
-- p.4 (Tournament selection)
+- ## p.4 (Tournament selection)
     - Tournament selection is one of the simplest selection methods, and we will start with it.
         
         ---
@@ -201,12 +211,12 @@
 
       <br>
         
-- p.5
+- ## p.5
     - 대충 그래프
         
         <br>
         
-- p.6 (Tournament selection)
+- ## p.6 (Tournament selection)
     - As expected, two worst individuals, A and C were not selected.
         
         ---
@@ -258,7 +268,7 @@
 
       <br>
         
-- p.7 (Proportional selection)
+- ## p.7 (Proportional selection)
     - This method can be illustrated with a roulette wheel.
         
         ---
@@ -302,8 +312,8 @@
 
       <br>
         
-- p.8 (p.7 내용 중복)
-- p.9 (Stochastic universal sampling selection)
+- ## p.8 (p.7 내용 중복)
+- ## p.9 (Stochastic universal sampling selection)
     - Stochastic universal sampling selection method is an alternative method of proportional selection.
         
         ---
@@ -340,7 +350,7 @@
         
         <br>
         
-- p.10 (Stochastic universal sampling selection)
+- ## p.10 (Stochastic universal sampling selection)
     - As with the proportional selection method, the stochastic universal sampling selection has the possibility to select the worst individual, and also has the possibility to not select the best individual.
         
         ---
@@ -368,7 +378,7 @@
 
       <br>
         
-- p.11 (Rank selection)
+- ## p.11 (Rank selection)
     - Rank selection has the same principle as proportional selection, but individuals of the population are ranked according to the values of their fitness function.
         
         ---
@@ -412,7 +422,7 @@
 
       <br>
         
-- p.12 (Rank selection)
+- ## p.12 (Rank selection)
     - the best individual in rank selection has a lower chance of being selected than it has in the proportional selection, and on the contrary, the worst individual, which had no chance of being selected in proportional selection has some positive probability of being selected.
         
         ---
@@ -433,10 +443,10 @@
         
         <br>
         
-- p.13 (Rank selection(How rank selection is calculated?))
+- ## p.13 (Rank selection(How rank selection is calculated?))
     
     
-- p.14 (Elite selection)
+- ## p.14 (Elite selection)
     - As we have already seen, none of the selection methods that we have considered – tournament, proportional, stochastic universal sampling, and rank selection –guarantee the selection of the best individual.
         
         ---
@@ -493,7 +503,7 @@
 
       <br>
         
-- Original Book p.111 (Elite selection)
+- ## Original Book p.111 (Elite selection)
     - NOTE: Elite selection is a handy method of selection in conditions where an individual's fitness may degenerate as a result of crossover or mutation. We need to protect the best individuals, and try to spread their genes among the population.
         
         ---
@@ -513,7 +523,7 @@
 
       <br>
         
-- Original Book p.112 (Conclusion)
+- ## Original Book p.112 (Conclusion)
     - Selection is a very important part of the evolution process; every individual aims to generate an offspring. The selection process is random by nature. We have studied several selection methods, each of which has its pros and cons. You can use one of these methods or any modification
         
         ---
@@ -539,7 +549,7 @@
 
         <br>
         
-- Original Book p.113 (Points to remember)
+- ## Original Book p.113 (Points to remember)
     - Each selection method has the following principle -- adapted individuals have a higher possibility to be selected than the abandoned ones.
         
         ---
