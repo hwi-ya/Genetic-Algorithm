@@ -177,11 +177,9 @@
                 
                 ![image 3](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%203.png)
 
+<p style="text-align: right;">[Re](#index).</p>
 [Re](#index)
-[Re](#index)
-[Re](#d)
-[Re](#e)
-[Re](#x)
+
 - ## Proportional selection
     - Population create
         
