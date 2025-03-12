@@ -23,29 +23,30 @@
         offspring - 자식
       
         ---
+        <br>
     - Such a choice is made by the principle of natural selection, according to which the most adapted individuals have the highest chances of participating in the creation of new individuals.
         
         ---
         
-        Such a choice is made by the principle of natural selection,
+        Such a choice is made by the principle of natural selection, <br>
         
-        이러한 선택은 다음과 같은 자연 선택 원칙에 의해 만들어졌다
+        이러한 선택은 다음과 같은 자연 선택 원칙에 의해 만들어졌다 <br>
         
-        according to which the most adapted individuals
+        according to which the most adapted individuals <br>
         
-        그에 따르면 가장 적응된 개체들이
+        그에 따르면 가장 적응된 개체들이 <br>
         
-        have the highest chances 
+        have the highest chances <br>
         
-        가장 높은 기회?가능성? 확률? 을 갖는다
+        가장 높은 기회?가능성? 확률? 을 갖는다 <br>
         
-        of participating 
+        of participating <br>
         
-        참여할
+        참여할 <br>
         
-        in the creation of new individuals.
+        in the creation of new individuals. <br>
         
-        새로운 개체를 만드는 것에
+        새로운 개체를 만드는 것에 <br>
         
         ---
         
@@ -54,6 +55,8 @@
         ---
         
         적응된 개체가 어색하니 적응력이 높은 정도로 의역하기
+        ---
+        <br>
         
     - As a result, an intermediate population (or parent pool) appears. An intermediate population is a set of individuals that have acquired the right to breed
         
