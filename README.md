@@ -1,4 +1,5 @@
 # Ch. 3
+## 0. Index
 1. [Selection](#1.-selection)
 2. [Structure](#2.-structure)
 
