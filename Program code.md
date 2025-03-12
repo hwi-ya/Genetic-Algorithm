@@ -4,7 +4,7 @@
 3. [Stochastic universal sampling selection](#stochastic-universal-sampling-selection)
 4. [Rank selection](#rank-selection)
 5. [Elite selection](#elite-selection)
-<br>
+
 - Tournament selection
     - Population create
         
