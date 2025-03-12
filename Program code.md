@@ -176,7 +176,7 @@
                 
                 ![image 3](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%203.png)
                 
-- Proportional selection
+- [Proportional selection](#proportional-selection)
     - Population create
         
         ```python
