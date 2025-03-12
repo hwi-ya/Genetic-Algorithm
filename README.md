@@ -29,7 +29,7 @@
     설명 내용...
  
 <details>
-  <summary>Selection methods 상세보기</summary>
+  <summary>#Selection methods 상세보기</summary>
   
   1. [Tournament Selection](#tournament-selection)
   2. [Proportional Selection](#proportional-selection)
