@@ -124,7 +124,7 @@
             
         - Result
             
-            ![tournamentpopcreate](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image.png)
+            ![image](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image.png)
             
     - Visualization
         
@@ -166,15 +166,15 @@
         - Result
             - Population
                 
-                ![image.png](image%201.png)
+                ![image 1](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%201.png)
                 
             - Candidates
                 
-                ![image.png](image%202.png)
+                ![image 2](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%202.png)
                 
             - Best
                 
-                ![image.png](image%203.png)
+                ![image 3](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%203.png)
                 
 - Proportional selection
     - Population create
@@ -200,7 +200,7 @@
         
         - Result
             
-            ![image.png](image%204.png)
+            ![image 4](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%204.png)
             
     - Visualization
         - Bar graph ver.
@@ -306,7 +306,7 @@
             
         - Result
             
-            ![image.png](image%205.png)
+            ![image 5](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%205.png)
             
     - ch3
         - individual
@@ -551,7 +551,7 @@
             
     - Result
         
-        ![image.png](image%206.png)
+        ![image 6](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%206.png)
         
 - Rank selection
     - Visualization
@@ -618,11 +618,11 @@
         - Result
             - Fitness Proportional Sectors
                 
-                ![image.png](image%207.png)
+                ![image 7](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%207.png)
                 
             - Rank Proportional Sectors
                 
-                ![image.png](image%208.png)
+                ![image 8](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%208.png)
                 
     - Population create
         
@@ -647,7 +647,7 @@
         
         - 결과
             
-            ![image.png](image%209.png)
+            ![image 9](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%209.png)
             
     - ch3
         - individual
