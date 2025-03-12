@@ -1,2 +1,2 @@
 # Ch. 3
-# Title : Selection
+# Selection
