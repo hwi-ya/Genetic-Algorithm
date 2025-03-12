@@ -1,5 +1,10 @@
 # Program code
-
+1. [Tournament selection](#tournament-selection)
+2. [Proportional selection](#proportional-selection)
+3. [Stochastic universal sampling selection](#stochastic-universal-sampling-selection)
+4. [Rank selection](#rank-selection)
+5. [Elite selection](#elite-selection)
+<br>
 - Tournament selection
     - Population create
         
