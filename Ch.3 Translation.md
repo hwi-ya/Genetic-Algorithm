@@ -1,14 +1,15 @@
 # Translation
 ## INDEX
-[p.1](p.1-(selection)) [p.2](p.2-(selection))
-[p.3](p.3-(selection-methods))
-[p.4]
-[p.5]
-[p.6]
-[p.7]
-[p.8]
-[p.9]
-[p.10]
+1. [p.1](p.1-(selection)) 
+2. [p.2](p.2-(selection))
+3. [p.3](p.3-(selection-methods))
+4. [p.4]
+5. [p.5]
+6. [p.6]
+7. [p.7]
+8. [p.8]
+9. [p.9]
+10. [p.10]
 
 - ## p.1 (selection)
     - Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.
