@@ -1,4 +1,5 @@
 # Program code
+## I N D E X
 1. [Tournament selection](#tournament-selection)
 2. [Proportional selection](#proportional-selection)
 3. [Stochastic universal sampling selection](#stochastic-universal-sampling-selection)
@@ -175,7 +176,12 @@
             - Best
                 
                 ![image 3](https://github.com/hwi-ya/Genetic-Algorithm/blob/783333cdf2c36891b28439ca021ad3f40b00ff5b/image%203.png)
-                
+
+[Re](#I)
+[Re](#N)
+[Re](#D)
+[Re](#E)
+[Re](#X)
 - ## Proportional selection
     - Population create
         
