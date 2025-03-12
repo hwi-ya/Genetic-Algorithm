@@ -1,5 +1,6 @@
 # Ch. 3
-1. [Selection](#2.-structure)
+1. [Selection](1.-selection)
+2. [Structure](#2.-structure)
 
 
 
