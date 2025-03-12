@@ -1,7 +1,7 @@
 # Translation
 <details>
   <summary>p.1 (selection)</summary>
-  
+  <br>
   <details>
     <summary>election is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.</summary>
     <br>
