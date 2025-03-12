@@ -1,7 +1,7 @@
 # Ch. 3 Presentation
 ## 0. Index
 1. [Selection](#1-selection)
-2. [Structure](#2-selection-methods)
+2. [Selection methods](#2-selection-methods)
 3. [Conclusion](#3-conclusion)
 
 ## 1. Selection
