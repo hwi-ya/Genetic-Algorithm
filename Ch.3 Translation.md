@@ -1,6 +1,6 @@
 # Translation
 ## INDEX
-1. [Page.1](#p.1-(selection)) 
+1. [Page.1](#p.4-(Tournament-selection)) 
 2. [p.2](p.2-(selection))
 3. [p.3](p.3-(selection-methods))
 4. [p.4]
