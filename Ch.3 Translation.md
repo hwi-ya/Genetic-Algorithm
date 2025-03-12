@@ -1,15 +1,14 @@
 # Translation
 ## INDEX
-1. [Page.1](#p4-Tournament-selection) 
-2. [p.2](p.2-(selection))
-3. [p.3](p.3-(selection-methods))
-4. [p.4]
-5. [p.5]
-6. [p.6]
-7. [p.7]
-8. [p.8]
-9. [p.9]
-10. [p.10]
+1. [Page.1](#p1-selection) 
+2. [Page.2](#p2-selection)
+3. [Page.3](#p3-selection-methods)
+4. [Page.4](#p4-tournament-selection)
+6. [Page.6](#p6-tournament-selection)
+7. [Page.7]
+8. [Page.8]
+9. [Page.9]
+10. [Page.10]
 
 - ## p.1 (selection)
     - Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.
