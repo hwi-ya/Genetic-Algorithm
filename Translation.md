@@ -5,7 +5,7 @@
 </details>
 
 <details>
-  <summary> p.1 (selection) </summary>
+  <summary>  </summary>
   
   <details>
     <summary> Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation. </summary>
@@ -22,21 +22,39 @@
       selection은 다음 세대를 위해 자식을 만드는데 참여할 개체들을 선택하는 것 이다. 즉, 다음 세대를 위한 과정이다
         
       offspring - 자식
+  
+<details>
+  <summary>p.1 (selection)</summary>
+  
+  <details>
+    <summary>Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.</summary>
+    <p>    Selection is the choice of those individuals
+      selection은 개체들의 선택이다
+      
+      that will participate in creating offspring
+      다음 인구를 위해 자식을 만드는데 참여할
+        
+      that is, for the next generation
+      즉, 다음 세대를 위한 과정이다
+        
+      selection은 다음 세대를 위해 자식을 만드는데 참여할 개체들을 선택하는 것 이다. 즉, 다음 세대를 위한 과정이다
+        
+      offspring - 자식</p>
   </details>
   
   <details>
     <summary>두 번째 내용 토글</summary>
-    두 번째 내용이 여기에 들어갑니다.
+    <p>    두 번째 내용이 여기에 들어갑니다.</p>
   </details>
   
   <details>
     <summary>세 번째 내용 토글</summary>
-    세 번째 내용이 여기에 들어갑니다.
+    <p>    세 번째 내용이 여기에 들어갑니다.</p>
   </details>
   
   <details>
     <summary>네 번째 내용 토글</summary>
-    네 번째 내용이 여기에 들어갑니다.
+    <p>    네 번째 내용이 여기에 들어갑니다.</p>
   </details>
 
 </details>
