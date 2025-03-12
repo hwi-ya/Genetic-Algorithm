@@ -3,11 +3,11 @@
 1. [Selection](#1.-selection)
 2. [Structure](#2.-structure)
 3. [Conclusion](#3.-conclusion)
-안
-녕
-하
-세
-요
+안/
+녕/
+하/
+세/
+요/
 ## 1. Selection
 
 ## 2. Structure
