@@ -124,7 +124,7 @@
             
         - Result
             
-            ![image.png](image.png)
+            ![image.png](Ch.3/image.png)
             
     - Visualization
         
