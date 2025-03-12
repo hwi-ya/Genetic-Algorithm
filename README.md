@@ -2,7 +2,7 @@
 ## 0. Index
 1. [Selection](#1.-selection)
 2. [Structure](#2.-structure)
-
+3. [Conclusion](#3.-conclusion)
 
 
 
@@ -25,3 +25,5 @@
 ### Stochastic universal sampling Selection Selection
 ### Rank Selection
 ### Elite Selection
+
+## 3. Conclusion
