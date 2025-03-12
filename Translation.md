@@ -22,30 +22,25 @@
         
         offspring - 자식
       
-        ---
         <br>
+        
     - Such a choice is made by the principle of natural selection, according to which the most adapted individuals have the highest chances of participating in the creation of new individuals.
         
         ---
         
         Such a choice is made by the principle of natural selection, <br>
-        
         이러한 선택은 다음과 같은 자연 선택 원칙에 의해 만들어졌다 <br>
         
-        according to which the most adapted individuals <br>
-        
+        according to which the most adapted individuals <br>        
         그에 따르면 가장 적응된 개체들이 <br>
         
-        have the highest chances <br>
-        
+        have the highest chances <br>        
         가장 높은 기회?가능성? 확률? 을 갖는다 <br>
         
-        of participating <br>
-        
+        of participating <br>        
         참여할 <br>
         
-        in the creation of new individuals. <br>
-        
+        in the creation of new individuals. <br>        
         새로운 개체를 만드는 것에 <br>
         
         ---
@@ -55,46 +50,40 @@
         ---
         
         적응된 개체가 어색하니 적응력이 높은 정도로 의역하기
-        ---
+      
         <br>
         
     - As a result, an intermediate population (or parent pool) appears. An intermediate population is a set of individuals that have acquired the right to breed
         
         ---
         
-        As a result,
+        As a result, <br>
+        그 결과<br>
         
-        그 결과
+        an intermediate population (or parent pool) appears <br>        
+        중간 집단(혹은 부모 풀(웅덩이))이 발생한다 <br>
         
-        an intermediate population (or parent pool) appears
+        An intermediate population is a set <br>        
+        이 중간집단은 집합이다 <br>
         
-        중간 집단(혹은 부모 풀(웅덩이))이 발생한다
-        
-        An intermediate population is a set
-        
-        이 중간집단은 집합이다
-        
-        of individuals that have acquired the right to breed
-        
-        번식할?사육할 권한을 획득한 개인의
+        of individuals that have acquired the right to breed <br>        
+        번식할?사육할 권한을 획득한 개인의 <br>
         
         ---
         
-        그 결과, 중간집단(혹은 부모 풀)이 발생한다. 이 중간집단은 번식할 권한을 획득한 개체들의 집합이다
+        그 결과, 중간집단(혹은 부모 풀)이 발생한다. 이 중간집단은 번식할 권한을 획득한 개체들의 집합이다 <br>
         
-        ---
+        <br>
         
     - Adapted individuals can be recorded there several times. The abandoned individuals will most likely not get there at all.
         
         ---
         
-        Adapted individuals can be recorded there several times.
+        Adapted individuals can be recorded there several times. <br>        
+        적응력이 높은 개체는 여러번 기록될 수 있다. <br>
         
-        적응력이 높은 개체는 여러번 기록될 수 있다.
-        
-        The abandoned individuals will most likely not get there at all.
-        
-        버려진 개체들은 그곳에 아예 포함되지 못 할 수도 있다
+        The abandoned individuals will most likely not get there at all. <br>        
+        버려진 개체들은 그곳에 아예 포함되지 못 할 수도 있다 <br>
         
         ---
         
@@ -104,7 +93,7 @@
         
         포함되지 못 할 수도 있다보다 포함되지 않을 수 있다 로 의역
         
-        ---
+        <br>
         
 - p.2 (selection)
     - NOTE: It is important to understand that the same individual can be selected several times by the selection method, which means it can repeatedly participate in the process of creating new individuals.
