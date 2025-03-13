@@ -1,4 +1,4 @@
-# Ch. Program code
+# Ch.3 Program code
 ## INDEX
 1. [Tournament selection](#tournament-selection)
 2. [Proportional selection](#proportional-selection)
