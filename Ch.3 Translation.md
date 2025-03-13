@@ -40,6 +40,8 @@
       
         <br>
         
+        [Main](#index)
+      
     - Such a choice is made by the principle of natural selection, according to which the most adapted individuals have the highest chances of participating in the creation of new individuals.
         
         ---
