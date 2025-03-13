@@ -1,20 +1,21 @@
 # Translation
  - [README](https://github.com/hwi-ya/Genetic-Algorithm/blob/main/README.md)
 ## INDEX
-1. [p.1 (selection)](#p1-selection)
-2. [p.2 (selection)](#p2-selection)
-3. [p.3 (selection methods)](#p3-selection-methods)
-4. [p.4 (Tournament selection)](#p4-tournament-selection)
-5. Page.5
-6. [p.6 (Tournament selection)](#p6-tournament-selection)
-7. [p.7 (Proportional selection)](#p7-proportional-selection)
-8. Page.8
-9. [p.9 (Stochastic universal sampling selection)](#p9-Stochastic-universal-sampling-selection)
-10. [p.10 (Stochastic universal sampling selection)](#p10-Stochastic-universal-sampling-selection)
-11. [p.11 (Rank selection)](#p11-Rank-selection)
-12. [p.12 (Rank selection)](#p12-Rank-selection)
-13. Page.13
-14. [p.14 (Elite selection)](#p14-Elite-selection)
+- [p.1 (selection)](#p1-selection)
+- [p.2 (selection)](#p2-selection)
+- [p.3 (selection methods)](#p3-selection-methods)
+- [p.4 (Tournament selection)](#p4-tournament-selection)
+- Page.5
+- [p.6 (Tournament selection)](#p6-tournament-selection)
+- [p.7 (Proportional selection)](#p7-proportional-selection)
+- Page.8
+- [p.9 (Stochastic universal sampling selection)](#p9-Stochastic-universal-sampling-selection)
+- [p.10 (Stochastic universal sampling selection)](#p10-Stochastic-universal-sampling-selection)
+- [p.11 (Rank selection)](#p11-Rank-selection)
+- [p.12 (Rank selection)](#p12-Rank-selection)
+- Page.13
+- [p.14 (Elite selection)](#p14-Elite-selection)
+- [Original Book p.111 (Elite selection)](#Original-Book-p111-Elite-selection)
 
 - ## p.1 (selection)
     - Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.
