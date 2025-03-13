@@ -1,4 +1,5 @@
 # Translation
+[README](https://github.com/hwi-ya/Genetic-Algorithm/blob/main/README.md)
 ## INDEX
 1. [Page.1](#p1-selection) 
 2. [Page.2](#p2-selection)
