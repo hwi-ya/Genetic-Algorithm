@@ -1,20 +1,20 @@
 # Translation
  - [README](https://github.com/hwi-ya/Genetic-Algorithm/blob/main/README.md)
 ## INDEX
-1. [Page.1](#p1-selection)
-2. [Page.2](#p2-selection)
-3. [Page.3](#p3-selection-methods)
-4. [Page.4](#p4-tournament-selection)
+1. [p.1 (selection)](#p1-selection)
+2. [p.2 (selection)](#p2-selection)
+3. [p.3 (selection methods)](#p3-selection-methods)
+4. [p.4 (Tournament selection)](#p4-tournament-selection)
 5. Page.5
-6. [Page.6](#p6-tournament-selection)
-7. [Page.7](#p7-proportional-selection)
+6. [p.6 (Tournament selection)](#p6-tournament-selection)
+7. [p.7 (Proportional selection)](#p7-proportional-selection)
 8. Page.8
-9. [Page.9](#p9-Stochastic-universal-sampling-selection)
-10. [Page.10](#p10-Stochastic-universal-sampling-selection)
-11. [Page.11](#p11-Rank-selection)
-12. [Page.12](#p12-Rank-selection)
+9. [p.9 (Stochastic universal sampling selection)](#p9-Stochastic-universal-sampling-selection)
+10. [p.10 (Stochastic universal sampling selection)](#p10-Stochastic-universal-sampling-selection)
+11. [p.11 (Rank selection)](#p11-Rank-selection)
+12. [p.12 (Rank selection)](#p12-Rank-selection)
 13. Page.13
-14. [Page.14](#p14-Elite-selection)
+14. [p.14 (Elite selection)](#p14-Elite-selection)
 
 - ## p.1 (selection)
     - Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.
