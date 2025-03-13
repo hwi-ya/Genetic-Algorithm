@@ -111,7 +111,7 @@
         
         <br>
 
-        [Main](#index)
+      [Main](#index)
      
 - ## p.2 (selection)
     - NOTE: It is important to understand that the same individual can be selected several times by the selection method, which means it can repeatedly participate in the process of creating new individuals.
