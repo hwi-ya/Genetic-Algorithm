@@ -15,7 +15,7 @@
 12. [Page.12](#p12-Rank-selection)
 13. Page.13
 14. [Page.14](#p14-Elite-selection)
-<br>
+
 - ## p.1 (selection)
     - Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.
         
