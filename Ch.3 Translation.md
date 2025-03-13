@@ -39,9 +39,7 @@
         offspring - 자식
       
         <br>
-        
-        [Main](#index)
-      
+              
     - Such a choice is made by the principle of natural selection, according to which the most adapted individuals have the highest chances of participating in the creation of new individuals.
         
         ---
@@ -112,8 +110,9 @@
         포함되지 못 할 수도 있다보다 포함되지 않을 수 있다 로 의역
         
         <br>
-
-     
+  
+        [Main](#index)
+      
 - ## p.2 (selection)
     - NOTE: It is important to understand that the same individual can be selected several times by the selection method, which means it can repeatedly participate in the process of creating new individuals.
         
