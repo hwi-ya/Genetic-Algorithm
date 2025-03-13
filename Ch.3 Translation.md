@@ -1,20 +1,20 @@
 # Translation
  - [README](https://github.com/hwi-ya/Genetic-Algorithm/blob/main/README.md)
 ## INDEX
-- [p.1 (selection)](#p1-selection)
-- [p.2 (selection)](#p2-selection)
-- [p.3 (selection methods)](#p3-selection-methods)
-- [p.4 (Tournament selection)](#p4-tournament-selection)
-- Page.5
-- [p.6 (Tournament selection)](#p6-tournament-selection)
-- [p.7 (Proportional selection)](#p7-proportional-selection)
-- Page.8
-- [p.9 (Stochastic universal sampling selection)](#p9-Stochastic-universal-sampling-selection)
-- [p.10 (Stochastic universal sampling selection)](#p10-Stochastic-universal-sampling-selection)
-- [p.11 (Rank selection)](#p11-Rank-selection)
-- [p.12 (Rank selection)](#p12-Rank-selection)
-- Page.13 <br>
-[p.14 (Elite selection)](#p14-Elite-selection)<br>
+[p.1 (selection)](#p1-selection) <br>
+[p.2 (selection)](#p2-selection) <br>
+[p.3 (selection methods)](#p3-selection-methods) <br>
+[p.4 (Tournament selection)](#p4-tournament-selection) <br>
+Page.5 <br>
+[p.6 (Tournament selection)](#p6-tournament-selection) <br>
+[p.7 (Proportional selection)](#p7-proportional-selection) <br>
+Page.8 <br>
+[p.9 (Stochastic universal sampling selection)](#p9-Stochastic-universal-sampling-selection) <br>
+[p.10 (Stochastic universal sampling selection)](#p10-Stochastic-universal-sampling-selection) <br>
+[p.11 (Rank selection)](#p11-Rank-selection) <br>
+[p.12 (Rank selection)](#p12-Rank-selection) <br>
+Page.13 <br>
+[p.14 (Elite selection)](#p14-Elite-selection) <br>
 [Original Book p.111 (Elite selection)](#Original-Book-p111-Elite-selection)
 
 - ## p.1 (selection)
