@@ -13,9 +13,9 @@
 - [p.10 (Stochastic universal sampling selection)](#p10-Stochastic-universal-sampling-selection)
 - [p.11 (Rank selection)](#p11-Rank-selection)
 - [p.12 (Rank selection)](#p12-Rank-selection)
-- Page.13
-- [p.14 (Elite selection)](#p14-Elite-selection)
-- [Original Book p.111 (Elite selection)](#Original-Book-p111-Elite-selection)
+- Page.13 <br>
+[p.14 (Elite selection)](#p14-Elite-selection)<br>
+[Original Book p.111 (Elite selection)](#Original-Book-p111-Elite-selection)
 
 - ## p.1 (selection)
     - Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.
