@@ -111,7 +111,6 @@
         
         <br>
 
-      [Main](#index)
      
 - ## p.2 (selection)
     - NOTE: It is important to understand that the same individual can be selected several times by the selection method, which means it can repeatedly participate in the process of creating new individuals.
@@ -130,7 +129,7 @@
         ---
         
         참고 : 같은 객체가 선택 방법에 의해 여러번 선택될 수 있다는 것을 이해하는 것이 중요하다. <br>        
-        즉, 새로운 개체를 만드는 과정에 반복적으로 참여할 수 있다.
+        즉, 새로운 개체를 만드는 과정에 반복적으로 참여할 수 있다. 
 
         <br>
 
