@@ -1,10 +1,8 @@
 # Presentation
 ### 1. Ch. 3
 0. [File](learrning%20genetic%20algorithm%20with%20python_ch_3.pdf)
-1. [Translation](Ch.3%20Translation.md)
-2. [Program code](Ch.3%20Program%20code.md)
-3. [T](https://github.com/hwi-ya/Genetic-Algorithm/blob/Ch.3/Ch.3%20Translation.md)
-4. [P](https://github.com/hwi-ya/Genetic-Algorithm/blob/Ch.3/Ch.3%20Program%20code.md)
+1. [Translation](https://github.com/hwi-ya/Genetic-Algorithm/blob/Ch.3/Ch.3%20Translation.md)
+2. [Program code](https://github.com/hwi-ya/Genetic-Algorithm/blob/Ch.3/Ch.3%20Program%20code.md)
 
 ### 2. Ch. 7
 0. [File]
