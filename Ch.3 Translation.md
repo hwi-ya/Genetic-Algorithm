@@ -226,11 +226,7 @@
       [Main](#index)
       
 - ## p.5
-    - 대충 그래프
-        
-        <br>
-
-      [Main](#index)
+    - [Main](#index)
       
 - ## p.6 (Tournament selection)
     - As expected, two worst individuals, A and C were not selected.
@@ -333,8 +329,7 @@
       [Main](#index)
       
 - ## p.8 (p.7 내용 중복)
-
-  [Main](#index)
+     - [Main](#index)
   
 - ## p.9 (Stochastic universal sampling selection)
     - Stochastic universal sampling selection method is an alternative method of proportional selection.
@@ -372,7 +367,9 @@
         이 방법은 비례선택이 가진 무작위성의 요소를 없앤다, 그리고 개체들이 다음 원칙에 따라 선택되도록 보장한다 - 많은 좋은 개체, 몇몇 평균 개체, 그리고 몇몇 나쁜 개체들이
         
         <br>
-        
+
+        [Main](#index)
+      
 - ## p.10 (Stochastic universal sampling selection)
     - As with the proportional selection method, the stochastic universal sampling selection has the possibility to select the worst individual, and also has the possibility to not select the best individual.
         
@@ -400,7 +397,9 @@
         모순적인 것 처럼 보이지만, 이 접근법은 특정한 종류의 문제에 대해서 매우 좋은 결과를 보여준다
 
       <br>
-        
+
+      [Main](#index)
+      
 - ## p.11 (Rank selection)
     - Rank selection has the same principle as proportional selection, but individuals of the population are ranked according to the values of their fitness function.
         
@@ -444,7 +443,9 @@
         랭크 선택은 높은 적합도 값을 가진 개체와 낮은 적합도 값을 가진 개체의 큰 차이를 완화시킨다
 
       <br>
-        
+
+      [Main](#index)
+      
 - ## p.12 (Rank selection)
     - the best individual in rank selection has a lower chance of being selected than it has in the proportional selection, and on the contrary, the worst individual, which had no chance of being selected in proportional selection has some positive probability of being selected.
         
@@ -466,8 +467,10 @@
         
         <br>
         
+        [Main](#index)
+      
 - ## p.13 (Rank selection(How rank selection is calculated?))
-    
+     - [Main](#index)
     
 - ## p.14 (Elite selection)
     - As we have already seen, none of the selection methods that we have considered – tournament, proportional, stochastic universal sampling, and rank selection –guarantee the selection of the best individual.
@@ -525,7 +528,9 @@
         이 방법은 엘리트라고 불린다. 엘리트 선택은 랭크선택과 같은 다른 방법을 기반으로 할 수 있다. 그러나 이방법의 주요 변화는 선택된 집단에서 최고의 개체가 포함된다는 것을 보장한다
 
       <br>
-        
+
+      [Main](#index)
+      
 - ## Original Book p.111 (Elite selection)
     - NOTE: Elite selection is a handy method of selection in conditions where an individual's fitness may degenerate as a result of crossover or mutation. We need to protect the best individuals, and try to spread their genes among the population.
         
@@ -545,7 +550,9 @@
         참고 : 엘리트 선택은 특정 조건(교차나 돌연변이의 결과로 개인의 적합도가 퇴화할 수 있는 상황에서)에서 유용한 선택방법이다.  우리는 최고의 개체를 보호해야하며, 그들의 유전자가 개체군에 퍼지도록 노력해야한다.
 
       <br>
-        
+
+      [Main](#index)
+      
 - ## Original Book p.112 (Conclusion)
     - Selection is a very important part of the evolution process; every individual aims to generate an offspring. The selection process is random by nature. We have studied several selection methods, each of which has its pros and cons. You can use one of these methods or any modification
         
@@ -571,7 +578,9 @@
         선택은 진화 과정에서 매우 중요한 부분이다. 모든 개체는 자손을 생성하는 것을 목표로 한다. 선택과정은 본질적으로 랜덤이다. 우리는 여러가지 선택방법을 연구 했으며, 각각의 방법은 장단점이 있다. 너는 이러한 방법들중 하나나 어떤 수정이라도 사용할 수 있다.
 
         <br>
-        
+
+        [Main](#index)
+      
 - ## Original Book p.113 (Points to remember)
     - Each selection method has the following principle -- adapted individuals have a higher possibility to be selected than the abandoned ones.
         
@@ -604,3 +613,6 @@
         심지어 버려진 개체들도 그들의 유전자에 가치있는 무언가를 가질 수 있다 그래서 우리는 그들이 선택될 수 있도록 긍정적인 확률을 남겨둬야 한다.
 
       <br>
+
+      [Main](#index)
+      
