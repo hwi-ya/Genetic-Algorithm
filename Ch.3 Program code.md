@@ -1,11 +1,11 @@
 # Program code
 [Main](https://github.com/hwi-ya/Genetic-Algorithm/blob/main/README.md)
 ## INDEX
-1. [Tournament selection](#tournament-selection)
-2. [Proportional selection](#proportional-selection)
-3. [Stochastic universal sampling selection](#stochastic-universal-sampling-selection)
-4. [Rank selection](#rank-selection)
-5. [Elite selection](#elite-selection)
+ - [Tournament selection](#tournament-selection)
+ - [Proportional selection](#proportional-selection)
+ - [Stochastic universal sampling selection](#stochastic-universal-sampling-selection)
+ - [Rank selection](#rank-selection)
+ - [Elite selection](#elite-selection)
 
 - ## Tournament selection
     - Population create
