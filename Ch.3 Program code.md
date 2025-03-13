@@ -1,5 +1,5 @@
 # Program code
-[Main](https://github.com/hwi-ya/Genetic-Algorithm/blob/main/README.md)
+ - [Main](https://github.com/hwi-ya/Genetic-Algorithm/blob/main/README.md)
 ## INDEX
  - [Tournament selection](#tournament-selection)
  - [Proportional selection](#proportional-selection)
