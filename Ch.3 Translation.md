@@ -15,7 +15,7 @@
 12. [Page.12](#p12-Rank-selection)
 13. Page.13
 14. [Page.14](#p14-Elite-selection)
-
+<br>
 - ## p.1 (selection)
     - Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.
         
@@ -110,7 +110,9 @@
         포함되지 못 할 수도 있다보다 포함되지 않을 수 있다 로 의역
         
         <br>
-        
+
+        [Main](#index)
+     
 - ## p.2 (selection)
     - NOTE: It is important to understand that the same individual can be selected several times by the selection method, which means it can repeatedly participate in the process of creating new individuals.
         
@@ -131,7 +133,9 @@
         즉, 새로운 개체를 만드는 과정에 반복적으로 참여할 수 있다.
 
         <br>
-        
+
+        [Main](#index)
+      
 - ## p.3 (selection methods)
     - selection methods <br>
       선택 방법 <br>
@@ -152,7 +156,9 @@
         엘리트 선택 <br>
     
         <br>
-    
+
+        [Main](#index)
+      
 - ## p.4 (Tournament selection)
     - Tournament selection is one of the simplest selection methods, and we will start with it.
         
@@ -216,12 +222,16 @@
         참고 : 이것은 언급할 가치가 있다 만약 그룹 크기가 2라면 최악의 개체는 절대 선택 되지 않으며  만약 그룹 크기가 3이라면 최악의 두 개체는 선택되지 않는다 이와 같은 방식으로 그룹 크기가 커질수록 선택되지 않는 개체의 수가 늘어난다. 정도로 번역하면 된다.
 
       <br>
-        
+
+      [Main](#index)
+      
 - ## p.5
     - 대충 그래프
         
         <br>
-        
+
+      [Main](#index)
+      
 - ## p.6 (Tournament selection)
     - As expected, two worst individuals, A and C were not selected.
         
@@ -273,7 +283,9 @@
         명심해라 토너먼트 선택은 무작위 과정이기에, 최고의 개체가 선택 될 것이라고 100% 보장할 수 없다.
 
       <br>
-        
+
+      [Main](#index)
+      
 - ## p.7 (Proportional selection)
     - This method can be illustrated with a roulette wheel.
         
@@ -317,8 +329,13 @@
         이로부터, 룰렛휠의 섹터가 더 클수록, 특정 개체가 선택될 확률이 더 높아진다는 결론을 얻을 수 있다.
 
       <br>
-        
+
+      [Main](#index)
+      
 - ## p.8 (p.7 내용 중복)
+
+  [Main](#index)
+  
 - ## p.9 (Stochastic universal sampling selection)
     - Stochastic universal sampling selection method is an alternative method of proportional selection.
         
