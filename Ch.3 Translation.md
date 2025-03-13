@@ -9,12 +9,12 @@
 6. [Page.6](#p6-tournament-selection)
 7. [Page.7](#p7-proportional-selection)
 8. Page.8
-9. [Page.9](p9-Stochastic-universal-sampling-selection)
-10. [Page.10](p10-Stochastic-universal-sampling-selection)
-11. [Page.11](p11-Rank-selection)
-12. [Page.12](p12-Rank-selection)
+9. [Page.9](#p9-Stochastic-universal-sampling-selection)
+10. [Page.10](#p10-Stochastic-universal-sampling-selection)
+11. [Page.11](#p11-Rank-selection)
+12. [Page.12](#p12-Rank-selection)
 13. Page.13
-14. [Page.14](p14-Elite-selection)
+14. [Page.14](#p14-Elite-selection)
 
 - ## p.1 (selection)
     - Selection is the choice of those individuals that will participate in creating offspring for the next population, that is, for the next generation.
