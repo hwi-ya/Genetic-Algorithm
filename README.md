@@ -4,7 +4,12 @@
 - [Translation](https://github.com/hwi-ya/Genetic-Algorithm/blob/Ch.3/Ch.3%20Translation.md)
 - [Program code](https://github.com/hwi-ya/Genetic-Algorithm/blob/Ch.3/Ch.3%20Program%20code.md)
 
-### 2. Ch. 7
+### 2. Ch. n
+- [File]
+- [Translation]
+- [Program code]
+
+### 3. Ch. n
 - [File]
 - [Translation]
 - [Program code]
