@@ -8,6 +8,8 @@
  - [Rank selection](#rank-selection)
  - [Elite selection](#elite-selection)
 
+<br><br>
+
 - ## Tournament selection
     - Population create
         
